@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Netflix Clone
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/680344ff-8c49-4119-b47a-619364e2f173/deploy-status)](https://app.netlify.com/sites/sushil-netflix-clone/deploys)
+
+## [Live Site](https://sushil-netflix-clone.netlify.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
